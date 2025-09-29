@@ -93,12 +93,14 @@ body {
   text-align: center;
   padding-block: 2em;
 }
+
+
 .gallery .nav {
   justify-content: center;
 }
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: black;
   background-color: #beb45a;
   border-radius: 0;
 }
