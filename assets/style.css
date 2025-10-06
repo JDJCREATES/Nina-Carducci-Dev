@@ -357,5 +357,5 @@ input[type="submit"] {
 }
 
 .contrast-fix {
-  color: black !important;
+  color: black;
 }
